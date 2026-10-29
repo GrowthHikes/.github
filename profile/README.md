@@ -8,6 +8,7 @@ We solve practical problems such as inconsistent digital presence, slow lead fol
 
 ## Explore
 
+- [Open the GrowthHikes website](https://growthhikes-www.infortts.workers.dev/)
 - [GrowthHikes on Instagram](https://www.instagram.com/growth_hikes)
 - [GrowthHikes GitHub organization](https://github.com/GrowthHikes)
 
